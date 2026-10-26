@@ -373,22 +373,13 @@ If private communication fails, verify:
 7. Network ACLs and Linux host firewalls do not block the traffic.
 8. The destination private IP address is correct.
 
-## Security Considerations
-
-- Restrict SSH access to trusted source IP addresses.
-- Keep application instances private unless public access is explicitly required.
-- Apply least-privilege security group rules.
-- Never commit private keys, AWS credentials, or passwords.
-- Review screenshots for sensitive account information before publishing.
-- Remove unused AWS resources to reduce unnecessary costs.
-
 ## Conclusion
 
 This project documents the implementation and validation of private communication between two AWS VPCs using VPC Peering. It demonstrates practical cloud networking concepts, controlled SSH access, routing configuration, security controls, and connectivity verification.
 
 ## Author
 
-- **Name:** [SUMAN YADAV]
+- **Name:** SUMAN YADAV
 - **Project:** AWS VPC Peering Architecture
 - **Documentation:** Technical implementation and validation for EWB PVT LTD.
 ---
