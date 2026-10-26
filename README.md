@@ -69,7 +69,7 @@ flowchart LR
 
 **Note:** Confirm the resource names and IP addresses against your AWS console before publication. The bastion's public IP may change unless an Elastic IP is assigned.
 
-## Implementation Methodology — 17 Steps
+## Implementation Methodology 
 
 ### Step 1: Create VPC-A
 
