@@ -1,5 +1,5 @@
 
-# AWS VPC Peering Architecture — Technical Documentation
+# AWS VPC Peering Architecture -> Documentation
 
 ## Project Overview
 
