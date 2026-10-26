@@ -78,7 +78,7 @@ flowchart LR
 **Reason:** A VPC provides an isolated virtual network in which AWS resources can communicate using private IP addresses. The selected CIDR defines the address space available to the network.
 
 **Screenshot:**  
-![VPC-A configuration]<img width="1366" height="768" alt="Screenshot (148)" src="https://github.com/user-attachments/assets/83d16186-7e93-4242-8da6-d9bcc80c2025" />
+<img width="1366" height="768" alt="Screenshot (148)" src="https://github.com/user-attachments/assets/83d16186-7e93-4242-8da6-d9bcc80c2025" />
 
 <img width="1366" height="768" alt="Screenshot (149)" src="https://github.com/user-attachments/assets/50f07030-d9c1-45b3-9ce3-99021785add6" />
 
